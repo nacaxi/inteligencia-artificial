@@ -45,15 +45,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Você se considera mais...",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "Empático e leal aos amigos.",
+                afirmacao: "Sua lealdade e empatia te fariam um grande amigo. Você seria alguém como Ron Weasley ou Hagrid, sempre pronto para apoiar seus amigos em momentos difíceis, e sua lealdade seria reconhecida por todos em Hogwarts."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "Solitário, preferindo trabalhar sozinho.",
+                afirmacao: "Como uma pessoa mais introspectiva, você provavelmente preferiria a solidão. Seu foco seria em desenvolver habilidades únicas ou em realizar tarefas de forma independente, talvez como Severus Snape ou Draco Malfoy, com um caráter mais complexo e solitário."
             }
         ]
     },
