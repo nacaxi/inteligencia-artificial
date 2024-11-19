@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Coragem.",
-                afirmacao: "Você seria alguém com grande coragem e determinação, como Harry Potter ou Hermione Granger. Sempre pronto para enfrentar desafios, você seria a pessoa que não hesitaria em lutar pelo que é certo, mesmo em situações perigosas."
+                afirmacao: "Você seria alguém com grande coragem e determinação, como Harry Potter ou Hermione Granger."
             },
             {
                 texto: "Inteligência.",
-                afirmacao: "Sua mente ágil e curiosa te levaria a se destacar em áreas como a magia teórica ou as Artes das Trevas. Você seria alguém que pensa antes de agir e valoriza o conhecimento, talvez um estudante aplicado de Grifinória ou uma mente brilhante em Ravenclaw."
+                afirmacao: "Você seria alguém que pensa antes de agir e valoriza o conhecimento, talvez um estudante aplicado de Grifinória ou uma mente brilhante em Ravenclaw."
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Ficar fascinado(a) e querer saber mais.",
-                afirmacao: "Seu interesse pela magia seria imenso, e você provavelmente se tornaria amigo de criaturas como os elfos domésticos ou até mesmo um animago, explorando todos os mistérios do mundo mágico com empolgação."
+                afirmacao: "Seu interesse pela magia seria imenso, explorando todos os mistérios do mundo mágico com empolgação."
             },
             {
                 texto: "Ficar desconfiad(a) e cauteloso(a).",
-                afirmacao: "Você é alguém que prefere agir com precaução. Isso te tornaria uma pessoa estrategista, com um olhar atento para os perigos, talvez um membro da Lufa-Lufa, focado em proteger seus amigos e a si mesmo."
+                afirmacao: "Você é alguém que prefere agir com precaução. Isso te tornaria uma pessoa estrategista, com um olhar atento para os perigos."
             }
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Aceitaria imediatamente, sem hesitar.",
-                afirmacao: "Como alguém audacioso, você não pensaria duas vezes antes de se lançar em uma missão misteriosa. Você seria um líder natural, talvez alguém que integraria a Armada de Dumbledore ou até mesmo um Auror em potencial."
+                afirmacao: "Como alguém audacioso, você não pensaria duas vezes antes de se lançar em uma missão misteriosa."
             },
             {
                 texto: "Tentaria buscar mais informações antes de decidir.",
-                afirmacao: "Você seria mais cauteloso, tomando o tempo necessário para analisar todos os riscos antes de se envolver. Sua habilidade de planejar e pesar as consequências te colocaria em uma posição de conselheiro ou estrategista, como Percy Weasley ou até mesmo um Auror mais experiente."
+                afirmacao: "Você seria mais cauteloso, tomando o tempo necessário para analisar todos os riscos antes de se envolver. Sua habilidade de planejar e pesar as consequências te colocaria em uma posição de conselheiro ou estrategista, como Percy Weasley ."
             }
         ]
     },
@@ -49,7 +49,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Empático(a) e leal aos amigos.",
-                afirmacao: "Sua lealdade e empatia te fariam um grande amigo. Você seria alguém como Ron Weasley ou Hagrid, sempre pronto para apoiar seus amigos em momentos difíceis, e sua lealdade seria reconhecida por todos em Hogwarts."
+                afirmacao: "Sua lealdade e empatia te fariam um grande amigo. Você seria alguém como Ron Weasley ou Hagrid, sempre pronto para apoiar seus amigos em momentos difíceis."
             },
             {
                 texto: "Solitário(a), preferindo trabalhar sozinho.",
