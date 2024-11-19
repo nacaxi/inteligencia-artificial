@@ -22,11 +22,11 @@ const perguntas = [
         enunciado: "Qual seria a sua reação ao ver um ser mágico estranho pela primeira vez?",
         alternativas: [
             {
-                texto: "Ficar fascinad@ e querer saber mais.",
+                texto: "Ficar fascinado(a) e querer saber mais.",
                 afirmacao: "Seu interesse pela magia seria imenso, e você provavelmente se tornaria amigo de criaturas como os elfos domésticos ou até mesmo um animago, explorando todos os mistérios do mundo mágico com empolgação."
             },
             {
-                texto: "Ficar desconfiad@ e cauteloso.",
+                texto: "Ficar desconfiad(a) e cauteloso(a).",
                 afirmacao: "Você é alguém que prefere agir com precaução. Isso te tornaria uma pessoa estrategista, com um olhar atento para os perigos, talvez um membro da Lufa-Lufa, focado em proteger seus amigos e a si mesmo."
             }
         ]
@@ -48,11 +48,11 @@ const perguntas = [
         enunciado: "Você se considera mais...",
         alternativas: [
             {
-                texto: "Empático e leal aos amigos.",
+                texto: "Empático(a) e leal aos amigos.",
                 afirmacao: "Sua lealdade e empatia te fariam um grande amigo. Você seria alguém como Ron Weasley ou Hagrid, sempre pronto para apoiar seus amigos em momentos difíceis, e sua lealdade seria reconhecida por todos em Hogwarts."
             },
             {
-                texto: "Solitário, preferindo trabalhar sozinho.",
+                texto: "Solitário(a), preferindo trabalhar sozinho.",
                 afirmacao: "Como uma pessoa mais introspectiva, você provavelmente preferiria a solidão. Seu foco seria em desenvolver habilidades únicas ou em realizar tarefas de forma independente, talvez como Severus Snape ou Draco Malfoy, com um caráter mais complexo e solitário."
             }
         ]
