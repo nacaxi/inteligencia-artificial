@@ -9,12 +9,12 @@ const perguntas = [
         enunciado: "Qual é a sua principal característica?",
         alternativas: [
             {
-                texto: "Coragem. Você seria alguém com grande coragem e determinação, como Harry Potter ou Hermione Granger. Sempre pronto para enfrentar desafios, você seria a pessoa que não hesitaria em lutar pelo que é certo, mesmo em situações perigosas.",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "Coragem.",
+                afirmacao: "Você seria alguém com grande coragem e determinação, como Harry Potter ou Hermione Granger. Sempre pronto para enfrentar desafios, você seria a pessoa que não hesitaria em lutar pelo que é certo, mesmo em situações perigosas."
             },
             {
-                texto: "Inteligência. Sua mente ágil e curiosa te levaria a se destacar em áreas como a magia teórica ou as Artes das Trevas. Você seria alguém que pensa antes de agir e valoriza o conhecimento, talvez um estudante aplicado de Grifinória ou uma mente brilhante em Ravenclaw.",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "Inteligência.",
+                afirmacao: "Sua mente ágil e curiosa te levaria a se destacar em áreas como a magia teórica ou as Artes das Trevas. Você seria alguém que pensa antes de agir e valoriza o conhecimento, talvez um estudante aplicado de Grifinória ou uma mente brilhante em Ravenclaw."
             }
         ]
     },
