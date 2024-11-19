@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
 :root{
     --cor-fundo: #7b007b ;
     --cor-principal: #4c1a62 ;
@@ -14,6 +16,9 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    font-family: "Lexend", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .caixa-principal{
